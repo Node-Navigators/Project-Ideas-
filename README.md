@@ -1,5 +1,6 @@
 # Project-Ideas- 
 Here are List of Projects that we May Build together in Future 
+
 Project Ideas From Beginner to Advanced
 Web Scraper #scraper
 File encryptor #filetool
